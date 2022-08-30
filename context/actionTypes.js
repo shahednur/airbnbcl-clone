@@ -1,0 +1,3 @@
+export const DATA_ACTION_TYPES = {
+    SET_LOCATION : 'SET_LOCATION'
+}
